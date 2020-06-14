@@ -1,0 +1,7 @@
+{
+  "name": "powerlog",
+  "version": "0.0.1",
+  "description": "A no nonsense logging utility for Deno.",
+  "stable": true,
+  "files": ["./README.md", "./mod.ts"]
+}
