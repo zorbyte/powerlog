@@ -3,7 +3,7 @@
 A no nonsense logging utility for Deno.
 
 ```ts
-import { createLogger, setDefaultName, enableDebug } from "https://x.nest.land/powerlog@0.0.1/mod.ts";
+import { createLogger, setDefaultName, enableDebug } from "https://deno.land/x/powerlog@0.0.1/mod.ts";
 
 // Set an optional default name.
 setDefaultName("main");
